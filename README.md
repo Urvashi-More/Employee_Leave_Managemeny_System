@@ -1,4 +1,4 @@
-🧾 Employee Leave Management System
+<b>🧾 Employee Leave Management System </b> </br>
 </br>
 🌐 Overview of the Website </br>
     ➤ The Employee Leave Management System is a web-based platform that simplifies the leave request process in an organization. </br>
